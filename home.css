@@ -1,0 +1,93 @@
+/* CSS for home page(file: index.html)*/
+
+body{
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  background-color:rgb(175, 175, 175);
+  padding-top: 10px;
+}
+
+p{
+  font-family: Arial;
+  margin-left: 5px;
+}
+
+img{
+  margin-left: 5px;
+}
+
+h2{
+  margin-left: 5px;
+  color: rgb(238, 75, 23);
+}
+
+a{
+  margin-left: 5px;
+
+}
+
+.header-link{
+  color: black;
+  text-decoration: none;
+}
+
+.header-img{
+  height: 75px;
+}
+
+.header-title{
+  display: inline-block;
+}
+
+.subscribe{
+  background-color: rgb(204, 0, 0);
+  color: white;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: opacity 0.15s;
+  margin-left: 5px;
+}
+
+.subscribe:hover{
+  opacity: .8;
+}
+
+.subscribe:active{
+  opacity: .4;
+}
+
+/* Links */
+
+ .links{
+  background-color: darkslategray;
+ }
+
+/* Footer */
+
+.footer{
+  background-color: white;
+}
+
+.page-source{
+  display: flex;
+  align-items: center;
+}
+
+.page-source-img{
+  width: 30px;
+}
+
+.page-source-text{
+  color: black;
+}
+
+.page-source-link{
+  text-decoration: none;
+}
