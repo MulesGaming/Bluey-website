@@ -1,12 +1,8 @@
 /* CSS for home page(file: index.html)*/
 
 body{
-  margin-top: 0px;
-  margin-right: 0px;
-  margin-left: 0px;
-  margin-bottom: 0px;
+  margin: 0px;
   background-color:rgb(175, 175, 175);
-  padding-top: 10px;
 }
 
 p{
